@@ -3,6 +3,8 @@
 - 💻 Software Architect
 - 💲 Working with .NET(C#), SQL Server, Vue3 + Typescript + Vuetify
 
+![Scott Vercuski's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vercuski&theme=vue)
+
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
