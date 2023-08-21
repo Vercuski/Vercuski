@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Scott Vercuski
 
-- 💻 A Software Architect
+- 💻 Software Architect
+- 💲 Working with .NET(C#), SQL Server, Vue3 + Typescript + Vuetify
 
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
