@@ -6,7 +6,6 @@
 ![Scott Vercuski's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vercuski&theme=vue)
 
 ## Languages
-![<img src="https://img.shields.io/badge/_-blue?style=plastic&logo=.net&color=blue&link=http%3A%2F%2Fwww.google.com"/>](http://www.google.com)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
