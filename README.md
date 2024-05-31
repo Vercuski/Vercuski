@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Scott Vercuski
 
-- 💻 Software Architect
+- 💻 Software Architect/Engineer
 - 💲 Working with .NET(C#), SQL Server, Vue3 + Typescript + Vuetify
 
 ![Scott Vercuski's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vercuski&theme=vue)
